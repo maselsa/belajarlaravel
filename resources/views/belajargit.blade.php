@@ -7,7 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Saya Belajar Laravel</h1>
-    <p>Melakukan Perubahan File</p>
+    <h1>Saya Belajar GIT</h1>
+     <p>Saya Sedang Belajar GIT</p>
+     <p>Saya Sedang Belajar GIT</p>
+    
 </body>
 </html>
